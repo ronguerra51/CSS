@@ -1,0 +1,22 @@
+
+h1 {
+    color: #0066cc; /* Color azul */
+    text-align: center;
+  }
+  
+  p {
+    color: #333; /* Color negro por defecto */
+    line-height: 1.5;
+  }
+  
+  .rojo {
+    color: #ff0000; /* Color rojo */
+  }
+  
+  .verde {
+    color: #00cc00; /* Color verde */
+  }
+  
+
+
+  
